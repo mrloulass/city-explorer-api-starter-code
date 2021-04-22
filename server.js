@@ -20,3 +20,5 @@ function weatherHandler(request, response) {
 }  
 
 app.listen(process.env.PORT, () => console.log(`Server up on ${process.env.PORT}`));
+
+// WIP
